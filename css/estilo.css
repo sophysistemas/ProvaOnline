@@ -1,0 +1,28 @@
+body {
+  background: url(../img/system/polaroid.png);
+  width: 100%;
+}
+
+  {
+  /*Define as fontes do site*/
+  font-family: 'lato', sans-serif;
+  font-weight: 300;
+}
+
+
+#cntPrincipal {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.btnCrud {
+  /*Botoes Salvar e Cancelar*/
+  width: 100px;
+}
+
+
+.btnCrud {
+  /*Botoes Salvar e Cancelar/
+  width: 100px;
+  margin-right: 5px;
+}

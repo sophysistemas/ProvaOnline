@@ -1,0 +1,21 @@
+#divPrincipal {
+  height: 500px;
+  width: 100%;
+  background-color: #fff;
+  padding: 20px;
+  border-color: gray;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  border-radius: 8px;
+  margin-bottom: 10px;
+  margin-top: 40px;
+}
+
+
+li {
+  margin-top: 15px;
+  color: rgb(46, 41, 41);
+}
+
+#btnIniciar {
+  width: 20%;
+}

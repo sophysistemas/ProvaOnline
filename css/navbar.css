@@ -1,0 +1,13 @@
+.navbar .navbar-brand img {
+  /* Altera as propriedades da logo usada no menu principal */
+  width: 80px;
+  height: 35px
+}
+
+#divTimer {
+  background-color: #fff;
+  padding: 10px;
+  width: 100px;
+  border-radius: 5px;
+  align-content: center;
+}

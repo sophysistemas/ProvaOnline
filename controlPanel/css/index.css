@@ -1,0 +1,176 @@
+html,
+body {
+  background-color: black;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+#divPrincipal #divListaProcessos span {
+  font-size: 10px;
+  margin: 5px;
+  padding: 1px 5px 1px 5px;
+}
+
+#divPrincipal #divListaProcessos .aberto {
+  background-color: green;
+}
+
+#divPrincipal #divListaProcessos .fechado {
+  background-color: #545b62;
+}
+
+.mainDivs {
+  border-radius: 8px;
+  background-color: #302e2e;
+  color: #fff;
+  padding: 20px;
+}
+
+#divListaProcessos {
+  height: 85vh;
+  max-width: 17%;
+  min-width: 17%;
+  padding-left: 10px;
+}
+
+#divDados {
+  height: 85vh;
+  width: 400px;
+  margin: 0;
+  padding: 10px;
+}
+
+#divListaResultados {
+  font-size: 12px; 
+}
+
+.rowData {
+  margin: 0px;
+  margin-bottom: 12px;
+  height: 25vh;
+}
+
+#divResultado {
+  height: 85vh;
+  max-width: 31%;
+  min-width: 31%;
+  margin: 0;
+}
+
+#divPrincipal {
+  padding: 20px;
+  padding-top: 10px;
+  height: 90vh;
+}
+
+.colData1 {
+  background-color:rgb(198, 238, 250);
+  color: black;
+  padding-top: 10px;
+  
+}
+
+.colData1 p {
+  margin: 5px;
+}
+
+.colData2 {
+  background-color: blue;
+  padding-top: 10px;
+}
+
+#div-prova {
+  display: flex;
+  justify-content: space-between;
+}
+.colData3 {
+  background-color: green;
+  max-width: 32%;
+  min-width: 32%;
+  padding-top: 10px;
+}
+
+.colData4 {
+  background-color: red;
+  max-width: 32%;
+  min-width: 32%;
+  padding-top: 10px;
+}
+
+.colData5 {
+  background-color: green;
+  max-width: 32%;
+  min-width: 32%;
+  padding-top: 10px;
+}
+
+.colData6 {
+  background-color: blue;
+  padding: 10px 5px 5px 5px;
+}
+
+.colData7 {
+  background-color: rgb(3, 3, 105);
+  max-width: 32%;
+  min-width: 32%;
+  padding-top: 10px;
+}
+
+.dataValue {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+#listaProcessos {
+  margin-top: 15px;
+}
+
+.btn-group-toggle {
+  width: 200px;
+  padding-bottom: 7px;
+}
+
+hr {
+  border-top: 1px solid white;
+}
+
+#divRespostas {
+  font-size: 14px;
+}
+
+#divTotal {
+  width: 100%;
+  margin-top: 30px;
+  background-color: #e3e8f5;
+  padding: 20px;
+  padding-top: 10px;
+  font-size: 14px;
+}
+
+.titulo {
+  font-weight: 500;
+}
+
+.linhasTotal {
+  border-bottom: 1px solid gray;
+  padding: 8px;
+}
+
+#div-dados-prova {
+  background-color: indianred;
+  padding: 0;
+}
+.row-titulo-dados-prova {
+  padding: 0;
+  margin-bottom: 10px;
+  height: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.row-dados-prova{
+  justify-content: space-between;
+  margin: 0 0 0 0;
+  width: 100%;
+}
